@@ -12,7 +12,7 @@ const Footer = () => {
                 <TwitterIcon/>
                 <FacebookIcon/>
             </div>
-            <p>&copy; Mohammad Malekzad</p>
+            <p> 2022 &copy; Mohammad Malekzad</p>
         </div>
     );
 }

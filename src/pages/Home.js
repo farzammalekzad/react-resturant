@@ -5,11 +5,11 @@ const Home = () => {
     return(
         <div className="home">
             <div className="headerContainer">
-                <h1>Food Corner</h1>
-                <p>INDIAN FOOD AT A CLICK</p>
-                <Link to="/">
+                <h1>رستوران خودتون</h1>
+                <p>با انواع غذاهای خوشمزه</p>
+                <Link to="/menu">
                     <button>
-                        ORDER NOW
+                        سفارش بده
                     </button>
                 </Link>
             </div>

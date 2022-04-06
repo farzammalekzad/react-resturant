@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e33a22-4f01-41d6-8f6e-40c48177073b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/IRANSansWeb.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/IRANSansWeb.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/IRANSansWeb.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/IRANSansWeb.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/MenuItem.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/component/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Navbar.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/component" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/fonts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -36,6 +45,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/fonts" />
       <recent name="$PROJECT_DIR$/src/component" />
       <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/src/styles" />
@@ -56,7 +66,9 @@
       <workItem from="1648738860465" duration="3988000" />
       <workItem from="1648912121230" duration="5957000" />
       <workItem from="1649003468462" duration="4772000" />
-      <workItem from="1649088185444" duration="4852000" />
+      <workItem from="1649088185444" duration="5161000" />
+      <workItem from="1649175777014" duration="169000" />
+      <workItem from="1649261174142" duration="7516000" />
     </task>
     <servers />
   </component>
